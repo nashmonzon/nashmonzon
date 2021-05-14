@@ -4,7 +4,8 @@
 Soy de Argentina, tengo hobbies e intereses variados, pero principalmente me gusta mucho la tecnología y los deportes, 
 soy programador Full Stack y estoy en búsqueda de mas conocimiento  para mejorar mis habilidades 
 
-Habilidades: 
+### **Habilidades:**
+
 [<img height=30 alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png"/>]()
 [<img height=30 alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png"/>]()
 [<img height=30 alt="HTML" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"/>]()
