@@ -5,7 +5,7 @@ Soy de Argentina, tengo hobbies e intereses variados, pero principalmente me gus
 soy programador Full Stack y estoy en búsqueda de mas conocimiento  para mejorar mis habilidades 
 
 
-
+```
 
 
 ### **Habilidades:**
