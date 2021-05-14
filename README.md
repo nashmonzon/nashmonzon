@@ -22,9 +22,12 @@ soy programador Full Stack y estoy en búsqueda de mas conocimiento  para mejora
 [<img height=30 alt="SQL" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png"/>]()
 [<img height=30 alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>]()
 [<img height=30 alt="Sequelize ORM" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg"/>]()
+[<img height=30 alt="MongoDB" src="https://img1.freepng.es/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg"/>]()
 [<img height=30 alt="Open-API" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>]()
+[<img height=30 alt="Expo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQuBRLachOyRW03flUmPCt2t83Y9GWmgKnIb3Gva-rm8SSgBZRSb0iVzKtlRr4ANJh1A&usqp=CAU"/>]()
 [<img height=30 alt="Github" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/>]()
 [<img height=30 alt="git" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"/>]()
+[<img height=30 alt="Figma" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>]()
 
 
 
@@ -32,5 +35,5 @@ soy programador Full Stack y estoy en búsqueda de mas conocimiento  para mejora
 
 ### **Contactos:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nashmonzon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignmonzon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ignmonzon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/nashmonzon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ignmonzon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/ignmonzon)  
 
